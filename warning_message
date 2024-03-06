@@ -1,8 +1,8 @@
 {
     "os": "iOS",
-    "version_name": "2.2.24",
+    "version_name": "2.4.24",
     "note": "",
     "store": "https://apps.apple.com/us/app/commchat-messenger/id1558420730";,
     "is_store_link": true,
-    "minversion": "2.2.24"
+    "minversion": "2.4.24"
 }
